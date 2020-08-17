@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "256409197049",
+    "firebase_url": "https://candy-block-puzzle-e877a.firebaseio.com",
+    "project_id": "candy-block-puzzle-e877a",
+    "storage_bucket": "candy-block-puzzle-e877a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256409197049:android:328a9fa0d90b8e8926c528",
+        "android_client_info": {
+          "package_name": "com.Greedy.CandyBlockPuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256409197049-t2tf5tsddkc82rfqtodv27fqunv6r7np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz1u33F17oUq5JAAl7Nx-AJ10-zKZcgwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256409197049-t2tf5tsddkc82rfqtodv27fqunv6r7np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{AD344263-3994-4FB3-00F6-E7A7E04B76EA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Block-Puzzle-Magic/Scripts/UIScripts/GameOver.cs">
+    <Files>
+      <File FileName="Assets/BannerAds.cs" Line="6" Column="45" />
+      <File FileName="Assets/Block-Puzzle-Magic/Scripts/UIScripts/GameOver.cs" Line="60" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Candy-Block-Puzzle" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Block-Puzzle-Magic" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="UIScripts" expanded="True">
+                    <Node name="GameOver.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Plugins" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Assembly-CSharp-Editor.csproj</String>
+    <String>Assembly-CSharp-Editor-firstpass.csproj</String>
+    <String>Assembly-CSharp-firstpass.csproj</String>
+    <String>Mixpanel.Editor.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c0063794-f8ee-4dff-b01f-5f15cbf3950b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
